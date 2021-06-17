@@ -1,3 +1,3 @@
 # Data-Science-Challenge
 
-This repository is for self-learning purpose. Don't provide data.
+This repository is only for self-learning purpose. Don't provide data.
